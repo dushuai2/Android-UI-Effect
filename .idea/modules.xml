@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Android-UI-Effect-Github.iml" filepath="$PROJECT_DIR$/.idea/Android-UI-Effect-Github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-UI-Effect-Github.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-UI-Effect-Github.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/copyqqscrollview/Android-UI-Effect-Github.copyqqscrollview.iml" filepath="$PROJECT_DIR$/.idea/modules/copyqqscrollview/Android-UI-Effect-Github.copyqqscrollview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dewdropview/Android-UI-Effect-Github.dewdropview.iml" filepath="$PROJECT_DIR$/.idea/modules/dewdropview/Android-UI-Effect-Github.dewdropview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imgdetail/Android-UI-Effect-Github.imgdetail.iml" filepath="$PROJECT_DIR$/.idea/modules/imgdetail/Android-UI-Effect-Github.imgdetail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/listindex/Android-UI-Effect-Github.listindex.iml" filepath="$PROJECT_DIR$/.idea/modules/listindex/Android-UI-Effect-Github.listindex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wheelview/Android-UI-Effect-Github.wheelview.iml" filepath="$PROJECT_DIR$/.idea/modules/wheelview/Android-UI-Effect-Github.wheelview.iml" />
+    </modules>
+  </component>
+</project>
